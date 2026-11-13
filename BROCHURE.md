@@ -23,7 +23,7 @@ It keeps the evidence in private local storage and attaches **SHA-256 file finge
 
 | Dashboard | Evidence timeline | Settings |
 |---|---|---|
-| ![Lock Witness dashboard](assets/dashboard.png) | ![Illustrative Lock Witness history with synthetic incident imagery](assets/history.jpg) | ![Lock Witness settings](assets/settings.png) |
+| <img src="assets/dashboard.png" width="270" height="570" alt="Lock Witness dashboard"/> | <img src="assets/history-matched.svg" width="270" height="570" alt="Illustrative Lock Witness history with synthetic incident imagery"/> | <img src="assets/settings.png" width="270" height="570" alt="Lock Witness settings"/> |
 
 **Privacy note:** The evidence-timeline image is a designed illustration with synthetic incident thumbnails, **not a real incident or forensic record**. The dashboard and settings images are existing source-controlled UI captures.
 

@@ -42,7 +42,7 @@ The default architecture does **not** silently email evidence to the developer o
 
 | Dashboard | History | Settings |
 |---|---|---|
-| ![Lock Witness dashboard](assets/dashboard.png) | ![Illustrative Lock Witness incident history with synthetic thumbnails](assets/history.jpg) | ![Lock Witness settings](assets/settings.png) |
+| <img src="assets/dashboard.png" width="270" height="570" alt="Lock Witness dashboard"/> | <img src="assets/history-matched.svg" width="270" height="570" alt="Illustrative Lock Witness incident history with synthetic thumbnails"/> | <img src="assets/settings.png" width="270" height="570" alt="Lock Witness settings"/> |
 
 </details>
 

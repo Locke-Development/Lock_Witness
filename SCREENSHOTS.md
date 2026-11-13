@@ -10,7 +10,7 @@ Monitoring status, recent event, evidence count, modules, and the integrity/tria
 
 ## Illustrative incident timeline — synthetic image
 
-![Illustrative Lock Witness timeline showing synthetic thumbnails, not real incident evidence](assets/history.jpg)
+<img src="assets/history-matched.svg" width="360" height="760" alt="Illustrative Lock Witness timeline showing synthetic thumbnails, not real incident evidence"/>
 
 Illustrative timeline cards showing failed-attempt metadata and hash status. The thumbnails and sample event content are **fabricated for the presentation**, not authentic captured evidence.
 
