@@ -19,11 +19,13 @@ It keeps the evidence in private local storage and attaches **SHA-256 file finge
 
 **There is no automatic email or cloud transmission in the inspected capture/export workflow.** Sharing is explicitly initiated by the person using the device.
 
-## The real product screens
+## Product UI and privacy-safe illustrative incident timeline
 
 | Dashboard | Evidence timeline | Settings |
 |---|---|---|
-| ![Lock Witness dashboard](assets/dashboard.png) | ![Lock Witness history](assets/history.png) | ![Lock Witness settings](assets/settings.png) |
+| ![Lock Witness dashboard](assets/dashboard.png) | ![Illustrative Lock Witness history with synthetic incident imagery](assets/history.jpg) | ![Lock Witness settings](assets/settings.png) |
+
+**Privacy note:** The evidence-timeline image is a designed illustration with synthetic incident thumbnails, **not a real incident or forensic record**. The dashboard and settings images are existing source-controlled UI captures.
 
 **[See the complete screenshot gallery](SCREENSHOTS.md)** · **[Install from Google Play](https://play.google.com/store/apps/details?id=com.lockwitness.app)**
 

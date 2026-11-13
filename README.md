@@ -36,17 +36,17 @@ The default architecture does **not** silently email evidence to the developer o
 | **User controls** | Compose dashboard, onboarding, granular settings, diagnostic checks and Android share chooser |
 | **Commercial infrastructure** | Google Play Billing, entitlement checks and seven-day trial timer; live billing behavior not independently tested |
 
-### Watch the actual screens
+### Product UI and privacy-safe illustrative timeline
 
-<details open><summary><strong>Source-controlled Android screen captures</strong></summary>
+<details open><summary><strong>Source-controlled Android screens and illustrative incident history</strong></summary>
 
 | Dashboard | History | Settings |
 |---|---|---|
-| ![Lock Witness dashboard](assets/dashboard.png) | ![Lock Witness history](assets/history.png) | ![Lock Witness settings](assets/settings.png) |
+| ![Lock Witness dashboard](assets/dashboard.png) | ![Illustrative Lock Witness incident history with synthetic thumbnails](assets/history.jpg) | ![Lock Witness settings](assets/settings.png) |
 
 </details>
 
-The images originate in the application's repository; the portfolio does not imply every screenshot was recaptured from the July 2026 release.
+The dashboard and settings images originate in the application's repository; the incident-history image is an **illustrative reconstruction containing synthetic thumbnails, not actual captured evidence**. None of these images is presented as a freshly recorded production test.
 
 ## A full audit rather than a feature list
 

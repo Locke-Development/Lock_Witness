@@ -8,7 +8,7 @@ The primary private repository contains native Kotlin code, Jetpack Compose UI, 
 
 Historical evidence includes `docs/PHASE_14_C_REPORT.md` through `PHASE_19_REPORT.md`, `PROJECT_STATE.md`, the July 22 README, GitHub Actions and the [live Google Play description](https://play.google.com/store/apps/details?id=com.lockwitness.app).
 
-**No current source change was made to the private application.** Public material uses descriptions, selected app screenshots and the official app icon, rather than publishing code or real incident evidence.
+**No current source change was made to the private application.** Public material uses descriptions, source-controlled app UI images, one clearly labeled synthetic incident-timeline illustration, and the official app icon, rather than publishing code or real incident evidence.
 
 ## Comparator selection and official pages
 

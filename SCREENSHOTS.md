@@ -1,6 +1,6 @@
-# Lock Witness — Source-Controlled Product Screen Gallery
+# Lock Witness — Product UI Gallery and Illustrative Timeline
 
-All screenshots below come from the app's private repository at source snapshot `8ca488aa8b1bdc53b7d2992ca91a436478fe227e`. They are **existing development/test screenshots**, not a freshly captured Android 16 production-session replay. The public Play listing spells the app **Lock Witness**.
+The dashboard, settings, diagnostics and setup images come from the app's private repository at source snapshot `8ca488aa8b1bdc53b7d2992ca91a436478fe227e`. The **incident-history image is an illustrative reconstruction with synthetic placeholder thumbnails**, replacing the original test image containing a personal photograph. It is **not genuine incident evidence or a fresh Android 16 production screenshot**. The product name is **Lock Witness**.
 
 ## Monitoring dashboard
 
@@ -8,11 +8,11 @@ All screenshots below come from the app's private repository at source snapshot 
 
 Monitoring status, recent event, evidence count, modules, and the integrity/trial summary are visible together.
 
-## Incident history
+## Illustrative incident timeline — synthetic image
 
-![Lock Witness history](assets/history.png)
+![Illustrative Lock Witness timeline showing synthetic thumbnails, not real incident evidence](assets/history.jpg)
 
-Timestamped evidence cards with photo thumbnails, failed attempts, media indicators and hash status.
+Illustrative timeline cards showing failed-attempt metadata and hash status. The thumbnails and sample event content are **fabricated for the presentation**, not authentic captured evidence.
 
 ## Feature controls
 
